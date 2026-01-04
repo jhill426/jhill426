@@ -2,11 +2,11 @@
 
 ## Engineer
 
-As a kid, I loved math and literature — to me, software engineering is the perfect union of solving problems with logic and expressing those ideas simply through the medium of language.
+I build things on the internet.
 
-I've been working on the **Figma monetization team** recently, building out request access flows and scaling our payments model.
+I work at Figma, contributing to the mission to make design accessible to all.
 
-Outside of software development, I love to ski, bike, run, and play soccer.
+Outside of software, I spend my time reading, writing, skiing, biking, and distance running.
 
 🗽 **I'm based in** New York, New York  
 ✉️ **You can contact me at** [jrhill426@gmail.com](mailto:jrhill426@gmail.com)  
